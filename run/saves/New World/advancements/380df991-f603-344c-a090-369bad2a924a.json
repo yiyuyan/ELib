@@ -1,0 +1,11 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2023-09-24 10:05:20 +0800",
+      "minecraft:forest": "2023-09-24 09:26:32 +0800",
+      "minecraft:savanna": "2023-09-24 09:55:48 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}
